@@ -5,3 +5,7 @@
 - 👋 Hi, I’m @fares-developer
 - 👀 I’m interested in Android, Java, Kotlin, Python
 - 🌱 I’m currently learning Android Develop Appliactions
+
+# Proyects
+### BlogApp in Android
+![BlogApp](https://github.com/fares-developer/fares-developer/blob/main/Logo.png?raw=true)
