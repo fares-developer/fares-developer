@@ -7,10 +7,12 @@
 - 🌱 I’m currently learning Android Develop Appliactions
 
 # Proyects
-> [My Android BlogApp](https://github.com/fares-developer/BlogApp.git)
->
-![BlogApp](https://github.com/fares-developer/fares-developer/blob/main/Logo.png?raw=true)
->
-[MovieApp with Compose](https://github.com/fares-developer/movieapp)
->
-![MovieApp](https://github.com/fares-developer/movieapp/blob/main/app/src/main/ic_launcher-playstore.png?raw=true)
+  <a src="https://github.com/fares-developer/BlogApp.git">
+    <h4> My Android BlogApp</h4>
+  <img alt="BlogApp" src="https://github.com/fares-developer/fares-developer/blob/main/Logo.png?raw=true" width="100px" heigth="100px"/>
+  </a>
+   <a src="[https://github.com/fares-developer/BlogApp.git](https://github.com/fares-developer/movieapp)">
+    <h4>Movie App with Compose</h4>
+  <img alt="MovieApp" src="https://github.com/fares-developer/movieapp/blob/main/app/src/main/ic_launcher-playstore.png?raw=true" width="100px" heigth="100px"/>
+  </a>
+
