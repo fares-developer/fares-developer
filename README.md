@@ -1,5 +1,5 @@
 # 🚀 Fares Developer  
-### 🌐 <a href="https://fares-developer.github.io" target="_blank">Visiti mi Github Pages</a>
+### 🌐 <a href="https://fares-developer.github.io" target="_blank">Visita mi Github Pages</a>
 
 ---
 
